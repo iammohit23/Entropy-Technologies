@@ -1,0 +1,196 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	
+  	*/
+	
+	@font-face {
+	    font-family: "Flaticon";
+	    src: url("../fonts/Flaticon.eot");
+	    src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"), url("../fonts/Flaticon.woff2") format("woff2"), url("../fonts/Flaticon.woff") format("woff"), url("../fonts/Flaticon.ttf") format("truetype"), url("../fonts/Flaticon.html#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+	
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "Flaticon";
+	        src: url("Flaticon.html#Flaticon") format("svg");
+	    }
+	}
+	
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	    font-family: Flaticon;
+	    font-size: 20px;
+	    font-style: normal;
+	}
+	
+	.flaticon-left:before {
+	    content: "\f100";
+	}
+	
+	.flaticon-right:before {
+	    content: "\f101";
+	}
+	
+	.flaticon-smartphone:before {
+	    content: "\f102";
+	}
+	
+	.flaticon-watch-with-blank-face:before {
+	    content: "\f103";
+	}
+	
+	.flaticon-tablet:before {
+	    content: "\f104";
+	}
+	
+	.flaticon-bar-chart:before {
+	    content: "\f105";
+	}
+	
+	.flaticon-employee:before {
+	    content: "\f106";
+	}
+	
+	.flaticon-film:before {
+	    content: "\f107";
+	}
+	
+	.flaticon-cloud:before {
+	    content: "\f108";
+	}
+	
+	.flaticon-targeting:before {
+	    content: "\f109";
+	}
+	
+	.flaticon-shopping-bag:before {
+	    content: "\f10a";
+	}
+	
+	.flaticon-alarm-clock:before {
+	    content: "\f10b";
+	}
+	
+	.flaticon-comment-white-oval-bubble:before {
+	    content: "\f10c";
+	}
+	
+	.flaticon-notification:before {
+	    content: "\f10d";
+	}
+	
+	.flaticon-wifi:before {
+	    content: "\f10e";
+	}
+	
+	.flaticon-flag:before {
+	    content: "\f10f";
+	}
+	
+	.flaticon-security:before {
+	    content: "\f110";
+	}
+	
+	.flaticon-megaphone:before {
+	    content: "\f111";
+	}
+	
+	.flaticon-phone-book:before {
+	    content: "\f112";
+	}
+	
+	.flaticon-paragraph:before {
+	    content: "\f113";
+	}
+	
+	.flaticon-power:before {
+	    content: "\f114";
+	}
+	
+	.flaticon-microphone:before {
+	    content: "\f115";
+	}
+	
+	.flaticon-sun:before {
+	    content: "\f116";
+	}
+	
+	.flaticon-mixer:before {
+	    content: "\f117";
+	}
+	
+	.flaticon-speedometer:before {
+	    content: "\f118";
+	}
+	
+	.flaticon-headphones:before {
+	    content: "\f119";
+	}
+	
+	.flaticon-internet-explorer-logo:before {
+	    content: "\f11a";
+	}
+	
+	.flaticon-chrome:before {
+	    content: "\f11b";
+	}
+	
+	.flaticon-firefox:before {
+	    content: "\f11c";
+	}
+	
+	.flaticon-instagram:before {
+	    content: "\f11d";
+	}
+	
+	.flaticon-diamond:before {
+	    content: "\f11e";
+	}
+	
+	.flaticon-radiation:before {
+	    content: "\f11f";
+	}
+	
+	.flaticon-drag-flick:before {
+	    content: "\f120";
+	}
+	
+	.flaticon-dropbox-logo:before {
+	    content: "\f121";
+	}
+	
+	.flaticon-zeppelin:before {
+	    content: "\f122";
+	}
+	
+	.flaticon-magic-wand:before {
+	    content: "\f123";
+	}
+	
+	.flaticon-pacman:before {
+	    content: "\f124";
+	}
+	
+	.flaticon-search:before {
+	    content: "\f125";
+	}
+	
+	.flaticon-file:before {
+	    content: "\f126";
+	}
+	
+	.flaticon-antivirus:before {
+	    content: "\f127";
+	}
+	
+	.flaticon-table:before {
+	    content: "\f128";
+	}
+	
+	.flaticon-computer:before {
+	    content: "\f129";
+	}
